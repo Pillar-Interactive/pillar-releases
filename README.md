@@ -9,8 +9,8 @@ pull requests or push tags here.
 
 ## Installing
 
-Install from the Pillar dashboard (**Settings → Appliances → Add appliance**).
-The generated command downloads and verifies these files for you.
+Install using the command the Pillar dashboard generates for your organization.
+It downloads and verifies these files for you.
 
 ## Release assets
 
